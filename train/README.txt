@@ -1,1 +1,0 @@
-Para executar algum dos notebooks de treino, é necessário mover o arquivo para a pasta raiz do projeto.
